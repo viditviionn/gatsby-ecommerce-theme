@@ -14,3 +14,9 @@
 
   [plugins.inputs]
     enable = false
+
+[[redirects]]
+  from = "https://bookbarry.iitiimjobs.com/*"
+  to = "https://bookbarry.youcanbook.me//:splat"
+  status = 301
+  force = true
