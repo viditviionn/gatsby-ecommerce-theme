@@ -17,6 +17,6 @@
 
 [[redirects]]
   from = "https://bookbarry.iitiimjobs.com/*"
-  to = "https://bookbarry.youcanbook.me//:splat"
+  to = "https://bookbarry.youcanbook.me/:splat"
   status = 301
   force = true
